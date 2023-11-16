@@ -1,5 +1,5 @@
 {
-    "name": "cybercog/laravel-clickhouse",
+    "name": "ssalpo/laravel-clickhouse",
     "description": "ClickHouse migrations for Laravel",
     "type": "library",
     "license": "MIT",
